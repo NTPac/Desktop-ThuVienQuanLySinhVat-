@@ -1,0 +1,45 @@
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.exe.config
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.exe
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.pdb
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csprojAssemblyReference.cache
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmCNA.resources
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmLogin.resources
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmLibrary.resources
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.Properties.Resources.resources
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.GenerateResource.cache
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.CopyComplete
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.exe
+C:\Users\phong\Desktop\btck\BTCKv2\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.pdb
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.exe.config
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.exe
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.pdb
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csprojAssemblyReference.cache
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmCNA.resources
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmLogin.resources
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmLibrary.resources
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.Properties.Resources.resources
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.GenerateResource.cache
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.CopyComplete
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.exe
+C:\Users\phong\Desktop\btck\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.pdb
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.exe.config
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.exe
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\bin\Debug\ThuVienSinhVat.pdb
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\bin\Debug\EntityFramework.dll
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\bin\Debug\EntityFramework.xml
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csprojAssemblyReference.cache
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmCNA.resources
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmLogin.resources
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.frmLibrary.resources
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.Properties.Resources.resources
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.GenerateResource.cache
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.CoreCompileInputs.cache
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.csproj.CopyComplete
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.exe
+C:\Users\phong\Desktop\ThuVienQuanLySinhVat\program in C#\ThuVienSinhVat\obj\Debug\ThuVienSinhVat.pdb
